@@ -22,3 +22,15 @@ The dataset can be downloaded [here](https://github.com/SullyChen/driving-datase
 
 #### Full DEMO video:  
 https://www.youtube.com/watch?v=7juEYI-gGKw&feature=youtu.be  
+
+#### Root mean square error of different model(in degree)
+For the  split of the datset, please refer to the report.   
+
+| Model | City | Hill |
+| ------------- | ------------- | ------------- |
+| single stream single RGB | 19.04 | 23.89 |
+| single stream 3 x RGB | 7.23 | 13.91 |
+| 3 x RGB +1 x optical flow | 7.10 | 10.92 |
+| 3x RGB +2 x optical flow | 6.09 | 9.73 |
+| 3 x RGB +dynamic image of 3 frames| 6.93 | 10.15 |
+| 3 x RGB +dynamic image of 5 frames| 5.99 | 11.51 |

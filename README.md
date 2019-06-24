@@ -40,7 +40,7 @@ For the  split of the datset, please refer to the report.
 NOTE: The code shall be slightly modified accroding to your own directory
 #### Pre-processing
 Run the [frame2flow.py](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/frame2flow.py) to generate the frame.  
-You can test the ANU campus driving in the test/ANU_test file and run the test.py. 
-You will need to download the dataset here:https://drive.google.com/file/d/1Zr0wgDWOhRNm-C8eovcpUSzxLtQSKqBm/view?usp=sharing
+You can test the ANU campus driving in the test/ANU_test file and run the test.py.   
+You will need to download the dataset here:https://drive.google.com/file/d/1Zr0wgDWOhRNm-C8eovcpUSzxLtQSKqBm/view?usp=sharing  
 Unzip the file and place the two files that contain frames and optical-flow in the same directory of the code.
 

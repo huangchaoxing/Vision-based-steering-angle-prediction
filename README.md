@@ -37,4 +37,5 @@ For the  split of the datset, please refer to the report.
 #### Activation heatmap  
 ![hmp](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/hmp.png)
 ## Run the code  
-
+**NOTE: The code shall be slightly modified accroding to your own directory **   
+#### Pre-processing

@@ -13,3 +13,4 @@ The dataset can be downloaded [here](https://github.com/SullyChen/driving-datase
  ## Method  
  The model takes the RGB information and temporal information as the inputs of the two stream respectively and finally output the steering angle, which is a regression probelm. The temporal information can be optical-flow or [dynamic images](https://www.egavves.com/data/cvpr2016bilen.pdf).   
  The network architecture is shown below.Detalis can be referred to the technical report.  
+![CNN model](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/model.png)

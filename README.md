@@ -17,5 +17,8 @@ The dataset can be downloaded [here](https://github.com/SullyChen/driving-datase
 ![CNN model](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/model.png)
 
 ## Result
-Driving on campus:  
+#### Driving on campus:  
 ![gif](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/demo.gif)
+
+#### Full DEMO video:  
+https://www.youtube.com/watch?v=7juEYI-gGKw&feature=youtu.be  

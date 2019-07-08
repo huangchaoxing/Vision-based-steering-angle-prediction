@@ -2,7 +2,7 @@
 [PROJECT REPORT](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/report.pdf)  
 Semester project of ANU ENGN6528(computer vision)
 ## Background  
-In this project, we use a end to end two-stream CNN model to predict the steering angle of a self-driving car. We first train the model on the dataset which is collected by [SullyChen](https://github.com/SullyChen) in LA, USA and then test it on the dataset which is collected on the campus of the Australian National University, Canberra, Australia.   
+In this project, we use an end to end two-stream CNN model to predict the steering angle of a self-driving car. We first train the model on the dataset which is collected by [SullyChen](https://github.com/SullyChen) in LA, USA and then test it on the dataset which is collected on the campus of the Australian National University, Canberra, Australia.   
 ## Dependency 
 Pytorch 1.0  
 torchvision  

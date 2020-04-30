@@ -1,5 +1,6 @@
 # Vision-based-steering-angle-prediction
 [PROJECT REPORT](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/report.pdf)  
+[Presentation slide](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/Project_DEMO_Group-27.pdf)  
 Semester project of ANU ENGN6528/ENGN4528(computer vision)
 ## Background  
 In this project, we use an end to end two-stream CNN model to predict the steering angle of a self-driving car. We first train the model on the dataset which is collected by [SullyChen](https://github.com/SullyChen) in LA, USA and then test it on the dataset which is collected on the campus of the Australian National University, Canberra, Australia.   
